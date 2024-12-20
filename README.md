@@ -2,11 +2,7 @@
 # **Secret Tool**
 ![Banner](https://raw.githubusercontent.com/maskhanid/secret/refs/heads/main/banner.png)
 
-## Command Install :
 
-```bash
-bash <(curl -s https://raw.githubusercontent.com/maskhanid/secret/main/install.sh)
-```
 ## Description
 
 **Secret Tool** is a tool for encoding and obfuscating files in various programming languages using base64 encoding. 
